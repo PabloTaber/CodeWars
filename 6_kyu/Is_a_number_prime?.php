@@ -19,20 +19,28 @@
 
  function is_prime(int $n): bool {
     
+    // Si es menor que uno no es primo
     if ($n <= 1) {
         return false;
+    // Si es igual a 2 si es primo
     } elseif ($n === 2) {
         return true;
+    // Si es par no es primo (excepto 2)
     } elseif ($n % 2 === 0) {
         return false;
+    // Verificar divisibilidad por números impares hasta la raíz cuadrada de $n
     } else {
-        $divisor = $n - 1;
-        while ($divisor > 1) {
+        $divisor = 3;
+
+        while ($divisor * $divisor <= $n) {
+            // Verificar divisibilidad
             if ($n % $divisor === 0) {
                 return false;
             }
-            $divisor--;
+            // Solo verificar divisibilidad con números impares
+            $divisor += 2;
         }
+        // Si no hay divisores encontrados, $n es primo
         return true;
     }
-  }
+ }
