@@ -1,3 +1,5 @@
+![Badge](https://www.codewars.com/users/PabloTaber/badges/large)
+
 # Repositorio de Soluciones para CodeWars
 
 ¡Bienvenido a mi repositorio de soluciones para los ejercicios de la plataforma CodeWars! Aquí encontrarás las soluciones a diversos problemas de programación y algorítmicos. Este repositorio lo he ido construyendo mientras resolvía los desafíos en diferentes lenguajes de programación.
@@ -12,11 +14,14 @@ El repositorio está organizado en carpetas según el número del problema en Co
 
 ## Lista de Problemas Resueltos:
 
-| Número | Descripción del Problema | Solución |
-|:------:|-------------------------|:-------:|
-| 1      | [Nombre del Problema](Enlace al problema en CodeWars) | [Código](./Resueltos/1/Solucion.java) |
-| 2      | [Nombre del Problema](Enlace al problema en CodeWars) | [Código](./Resueltos/2/Solucion.py) |
-| ...    | ...                     |   ...   |
+| Nivel    | Descripción del Problema                        | Solución                                    |
+|:------:|-------------------------------------------------|:-------------------------------------------:|
+| 1 kyu  | [Nombre del Problema 1](Enlace al problema 1)   | [Código](./Resueltos/1/Solucion1.java)      |
+| 2 kyu  | [Nombre del Problema 2](Enlace al problema 2)   | [Código](./Resueltos/2/Solucion2.py)       |
+| 3 kyu  | [Nombre del Problema 3](Enlace al problema 3)   | [Código](./Resueltos/3/Solucion3.php)      |
+| ...    | ...                                             |                   ...                       |
+| 8 kyu  | [Nombre del Problema N](Enlace al problema N)   | [Código](./Resueltos/N/SolucionN.js)       |
+
 
 Puedes explorar cada carpeta para ver las soluciones en diferentes lenguajes de programación.
 
