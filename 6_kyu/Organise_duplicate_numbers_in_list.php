@@ -33,6 +33,3 @@
 
     return $resultado;
  }
-
- print_r (group([3, 2, 6, 2, 1, 3]));
-
