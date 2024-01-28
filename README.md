@@ -16,11 +16,11 @@ El repositorio está organizado en carpetas según el número del problema en Co
 
 | Nivel    | Descripción del Problema                        | Solución                                    |
 |:------:|-------------------------------------------------|:-------------------------------------------:|
-| ![6 kyu](.images/6kyu-icon.png)  | [Organise duplicate numbers in list](https://www.codewars.com/kata/5884b6550785f7c58f000047) | [PHP](./6_kyu/Organise_duplicate_numbers_in_list.php) |
-| ![6 kyu](.images/6kyu-icon.png)  | [Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f/php) | [PHP](./6_kyu/Is_a_number_prime.php) |
-| ![7 kyu](.images/7kyu-icon.png)  | [Calculate mean and concatenate string](https://www.codewars.com/kata/56f7493f5d7c12d1690000b6)   | [PHP](./7_kyu/Calculate_mean_and_concatenate_string.php)       |
-| 7 kyu  | [Nombre del Problema 3](Enlace al problema 3)   | [Código](./Resueltos/3/Solucion3.php)      |
-| 7 kyu  | [Nombre del Problema N](Enlace al problema N)   | [Código](./Resueltos/N/SolucionN.js)       |
+| ![6 kyu](.images/6kyu-icon.png)  | [Organise duplicate numbers in list](https://www.codewars.com/kata/5884b6550785f7c58f000047) | [![PHP](./.images/php-icon.png)](./6_kyu/Organise_duplicate_numbers_in_list.php) |
+| ![6 kyu](.images/6kyu-icon.png)  | [Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f/php) | [![PHP](./.images/php-icon.png)](./6_kyu/Is_a_number_prime.php) |
+| ![7 kyu](.images/7kyu-icon.png)  | [Calculate mean and concatenate string](https://www.codewars.com/kata/56f7493f5d7c12d1690000b6)   | [![PHP](./.images/php-icon.png)](./7_kyu/Calculate_mean_and_concatenate_string.php)       |
+| ![7 kyu](.images/7kyu-icon.png) | [Reverse words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)   | [![PHP](./.images/php-icon.png)](./7_kyu/Reverse_words.php)     |
+| ![7 kyu](.images/7kyu-icon.png) | [Visible dots on a die](https://www.codewars.com/kata/5a39724945ddce2223000800)   | [![PHP](./.images/php-icon.png)](./7_kyu/Visible_Dots_On_a_Die.php)        |
 
 
 Puedes explorar cada carpeta para ver las soluciones en diferentes lenguajes de programación.
