@@ -21,7 +21,7 @@ El repositorio está organizado en carpetas según el número del problema en Co
 | ![7 kyu](.images/7kyu-icon.png)  | [Calculate mean and concatenate string](https://www.codewars.com/kata/56f7493f5d7c12d1690000b6)   | [![PHP](./.images/php-icon.png)](./7_kyu/Calculate_mean_and_concatenate_string.php)       |
 | ![7 kyu](.images/7kyu-icon.png) | [Reverse words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)   | [![PHP](./.images/php-icon.png)](./7_kyu/Reverse_words.php)     |
 | ![7 kyu](.images/7kyu-icon.png) | [Visible dots on a die](https://www.codewars.com/kata/5a39724945ddce2223000800)   | [![PHP](./.images/php-icon.png)](./7_kyu/Visible_Dots_On_a_Die.php)        |
-| ![8 kyu](.images/8kyu-icon.png) | [Welcome!](https://www.codewars.com/kata/577ff15ad648a14b780000e7)   | [![PHP](./.images/php-icon.png)](./8_kyu/Welcome!.php)        |
+| ![8 kyu](.images/8kyu-icon.png) | [Welcome!](https://www.codewars.com/kata/577ff15ad648a14b780000e7)   | [![PHP](./.images/php-icon.png)](./8_kyu/Welcome!.php) [![JAVA](./.images/java-icon.png)(./8_kyu/Welcome.java)        |
 
 
 Puedes explorar cada carpeta para ver las soluciones en diferentes lenguajes de programación.
