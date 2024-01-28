@@ -16,11 +16,10 @@ El repositorio está organizado en carpetas según el número del problema en Co
 
 | Nivel    | Descripción del Problema                        | Solución                                    |
 |:------:|-------------------------------------------------|:-------------------------------------------:|
-| 1 kyu  | [Nombre del Problema 1](Enlace al problema 1)   | [Código](./Resueltos/1/Solucion1.java)      |
-| 2 kyu  | [Nombre del Problema 2](Enlace al problema 2)   | [Código](./Resueltos/2/Solucion2.py)       |
-| 3 kyu  | [Nombre del Problema 3](Enlace al problema 3)   | [Código](./Resueltos/3/Solucion3.php)      |
-| ...    | ...                                             |                   ...                       |
-| 8 kyu  | [Nombre del Problema N](Enlace al problema N)   | [Código](./Resueltos/N/SolucionN.js)       |
+| [6 kyu](./.imagenes/6kyu-logo.png)  | [Organise duplicate numbers in list](https://www.codewars.com/kata/5884b6550785f7c58f000047) | [PHP](./6_kyu/Organise_duplicate_numbers_in_list.php) |
+| 7 kyu  | [Calculate mean and concatenate string](https://www.codewars.com/kata/56f7493f5d7c12d1690000b6)   | [PHP](./7_kyu/Calculate_mean_and_concatenate_string.php)       |
+| 7 kyu  | [Nombre del Problema 3](Enlace al problema 3)   | [Código](./Resueltos/3/Solucion3.php)      |
+| 7 kyu  | [Nombre del Problema N](Enlace al problema N)   | [Código](./Resueltos/N/SolucionN.js)       |
 
 
 Puedes explorar cada carpeta para ver las soluciones en diferentes lenguajes de programación.
