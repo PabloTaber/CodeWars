@@ -24,6 +24,7 @@ El repositorio está organizado en carpetas según el número del problema en Co
 | ![8 kyu](.images/8kyu-icon.png) | [Area or Perimeter](https://www.codewars.com/kata/5ab6538b379d20ad880000ab)   | [![PHP](./.images/php-icon.png)](./8_kyu/Area_or_Perimeter.php) [![JAVA](./.images/java-icon.png)](./8_kyu/Area_or_Perimeter.java)         |
 | ![8 kyu](.images/8kyu-icon.png) | [Welcome!](https://www.codewars.com/kata/577ff15ad648a14b780000e7)   | [![PHP](./.images/php-icon.png)](./8_kyu/Welcome!.php) [![JAVA](./.images/java-icon.png)](./8_kyu/Welcome.java)        |
 | ![8 kyu](.images/8kyu-icon.png) | [A wolf in sheep's clothing!](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15)   | [![JAVA](./.images/java-icon.png)](./8_kyu/A_wolf_in_sheeps_clothing.java) |
+| ![8 kyu](.images/8kyu-icon.png) | [Quarter of the year](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af)   | [![PHP](./.images/php-icon.png)](./8_kyu/Quarter_of_the_year.php) [![JAVA](./.images/java-icon.png)](./8_kyu/Quarter_of_the_year.java)        |
 
 
 ## Contribuciones
