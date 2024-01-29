@@ -16,6 +16,7 @@ El repositorio está organizado en carpetas según el número del problema en Co
 
 | Nivel    | Descripción del Problema                        | Solución                                    |
 |:------:|-------------------------------------------------|:-------------------------------------------:|
+| ![5 kyu](.images/5kyu-icon.png) | [Is my friend cheating?](https://www.codewars.com/kata/5547cc7dcad755e480000004) | [![PHP](./.images/php-icon.png)](./5_kyu/Is_my_friend_cheating.php) [![JAVA](./.images/java-icon.png)](./5_kyu/Is_my_friend_cheating.java) |
 | ![6 kyu](.images/6kyu-icon.png)  | [Organise duplicate numbers in list](https://www.codewars.com/kata/5884b6550785f7c58f000047) | [![PHP](./.images/php-icon.png)](./6_kyu/Organise_duplicate_numbers_in_list.php) |
 | ![6 kyu](.images/6kyu-icon.png)  | [Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f/php) | [![PHP](./.images/php-icon.png)](./6_kyu/Is_a_number_prime.php) |
 | ![7 kyu](.images/7kyu-icon.png)  | [Calculate mean and concatenate string](https://www.codewars.com/kata/56f7493f5d7c12d1690000b6)   | [![PHP](./.images/php-icon.png)](./7_kyu/Calculate_mean_and_concatenate_string.php)       |
@@ -26,7 +27,7 @@ El repositorio está organizado en carpetas según el número del problema en Co
 | ![8 kyu](.images/8kyu-icon.png) | [A wolf in sheep's clothing!](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15)   | [![JAVA](./.images/java-icon.png)](./8_kyu/A_wolf_in_sheeps_clothing.java) |
 | ![8 kyu](.images/8kyu-icon.png) | [Quarter of the year](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af)   | [![PHP](./.images/php-icon.png)](./8_kyu/Quarter_of_the_year.php) [![JAVA](./.images/java-icon.png)](./8_kyu/Quarter_of_the_year.java)        |
 | ![8 kyu](.images/8kyu-icon.png) | [Quadrants](https://www.codewars.com/kata/643af0fa9fa6c406b47c5399)   | [![JAVA](./.images/java-icon.png)](./8_kyu/Quadrants.java) |
-| ![8 kyu](.images/8kyu-icon.png) | [No zeros for heros](https://www.codewars.com/kata/570a6a46455d08ff8d001002) | [![PHP](./.images/php-icon.png)](./8_kyu/No_zeros_for_heros.php) [![JAVA](./.images/java-icon.png)](./8_kyu/No_zeros_for_heros.java)        |
+| ![8 kyu](.images/8kyu-icon.png) | [No zeros for heros](https://www.codewars.com/kata/570a6a46455d08ff8d001002) | [![PHP](./.images/php-icon.png)](./8_kyu/No_zeros_for_heros.php) [![JAVA](./.images/java-icon.png)](./8_kyu/No_zeros_for_heros.java) |
 
 ## Contribuciones
 
