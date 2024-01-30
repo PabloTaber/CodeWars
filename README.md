@@ -23,6 +23,7 @@ El repositorio está organizado en carpetas según la dificultad de los problema
 | ![5 kyu](.images/5kyu-icon.png) | [Greed is Good](https://www.codewars.com/kata/5270d0d18625160ada0000e4) | [![JAVA](./.images/java-icon.png)](./5_kyu/Greed_is_Good.java) |
 | ![5 kyu](.images/5kyu-icon.png) | [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a) | [![PHP](./.images/php-icon.png)](./5_kyu/Directions_Reduction.php) |
 | ![5 kyu](.images/5kyu-icon.png) | [The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024) | [![PHP](./.images/php-icon.png)](./5_kyu/The_Hashtag_Generator.php) |
+| ![5 kyu](.images/5kyu-icon.png) | [Tic-Tac-Toe Checker](https://www.codewars.com/kata/525caa5c1bf619d28c000335) | [![PHP](./.images/php-icon.png)](./5_kyu/Tic-Tac-Toe_Checker.php) |
 | ![6 kyu](.images/6kyu-icon.png)  | [Organise duplicate numbers in list](https://www.codewars.com/kata/5884b6550785f7c58f000047) | [![PHP](./.images/php-icon.png)](./6_kyu/Organise_duplicate_numbers_in_list.php) |
 | ![6 kyu](.images/6kyu-icon.png)  | [Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f/php) | [![PHP](./.images/php-icon.png)](./6_kyu/Is_a_number_prime.php) |
 | ![6 kyu](.images/6kyu-icon.png) | [Find the missing letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2) | [![PHP](./.images/php-icon.png)](./6_kyu/Find_the_missing_letter.php) [![JAVA](./.images/java-icon.png)](./6_kyu/Find_the_missing_letter.java) |
