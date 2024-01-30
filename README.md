@@ -18,6 +18,7 @@ El repositorio está organizado en carpetas según la dificultad de los problema
 |:------:|-------------------------------------------------|:-------------------------------------------:|
 | ![4 kyu](.images/4kyu-icon.png)  | [Twice linear](https://www.codewars.com/kata/5672682212c8ecf83e000050) | [![PHP](./.images/php-icon.png)](./4_kyu/Twice_linear.php) |
 | ![5 kyu](.images/5kyu-icon.png) | [Is my friend cheating?](https://www.codewars.com/kata/5547cc7dcad755e480000004) | [![PHP](./.images/php-icon.png)](./5_kyu/Is_my_friend_cheating.php) [![JAVA](./.images/java-icon.png)](./5_kyu/Is_my_friend_cheating.java) |
+| ![5 kyu](.images/5kyu-icon.png) | [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0) | [![PHP](./.images/php-icon.png)](./5_kyu/Moving_Zeros_To_The_End.php) |
 | ![5 kyu](.images/5kyu-icon.png) | [RGB_To_Hex_Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001) | [![PHP](./.images/php-icon.png)](./5_kyu/RGB_To_HEX_Conversion.php) [![JAVA](./.images/java-icon.png)](./5_kyu/RGB_To_HEX_Conversion.java) |
 | ![5 kyu](.images/5kyu-icon.png) | [Greed is Good](https://www.codewars.com/kata/5270d0d18625160ada0000e4) | [![JAVA](./.images/java-icon.png)](./5_kyu/Greed_is_Good.java) |
 | ![6 kyu](.images/6kyu-icon.png)  | [Organise duplicate numbers in list](https://www.codewars.com/kata/5884b6550785f7c58f000047) | [![PHP](./.images/php-icon.png)](./6_kyu/Organise_duplicate_numbers_in_list.php) |
