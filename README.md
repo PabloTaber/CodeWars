@@ -38,4 +38,5 @@ El repositorio está organizado en carpetas según la dificultad de los problema
 | ![8 kyu](.images/8kyu-icon.png) | [Quarter of the year](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af)   | [![PHP](./.images/php-icon.png)](./8_kyu/Quarter_of_the_year.php) [![JAVA](./.images/java-icon.png)](./8_kyu/Quarter_of_the_year.java) |
 | ![8 kyu](.images/8kyu-icon.png) | [Quadrants](https://www.codewars.com/kata/643af0fa9fa6c406b47c5399)   | [![JAVA](./.images/java-icon.png)](./8_kyu/Quadrants.java) |
 | ![8 kyu](.images/8kyu-icon.png) | [No zeros for heros](https://www.codewars.com/kata/570a6a46455d08ff8d001002) | [![PHP](./.images/php-icon.png)](./8_kyu/No_zeros_for_heros.php) [![JAVA](./.images/java-icon.png)](./8_kyu/No_zeros_for_heros.java) |
+| ![8 kyu](.images/8kyu-icon.png) | [Calculate average](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921) | [![PHP](./.images/php-icon.png)](./8_kyu/Calculate_average.php) [![JAVA](./.images/java-icon.png)](./8_kyu/Calculate_average.java) |
 
