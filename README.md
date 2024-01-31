@@ -17,6 +17,7 @@ El repositorio está organizado en carpetas según la dificultad de los problema
 | Nivel    | Descripción del Problema                        | Solución                                    |
 |:------:|-------------------------------------------------|:-------------------------------------------:|
 | ![4 kyu](.images/4kyu-icon.png)  | [Twice linear](https://www.codewars.com/kata/5672682212c8ecf83e000050) | [![PHP](./.images/php-icon.png)](./4_kyu/Twice_linear.php) |
+| ![4 kyu](.images/4kyu-icon.png)  | [Sum of Intervals](https://www.codewars.com/kata/52b7ed099cdc285c300001cd) | [![PHP](./.images/php-icon.png)](./4_kyu/Sum_of_Intervals.php) |
 | ![5 kyu](.images/5kyu-icon.png) | [Is my friend cheating?](https://www.codewars.com/kata/5547cc7dcad755e480000004) | [![PHP](./.images/php-icon.png)](./5_kyu/Is_my_friend_cheating.php) [![JAVA](./.images/java-icon.png)](./5_kyu/Is_my_friend_cheating.java) |
 | ![5 kyu](.images/5kyu-icon.png) | [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0) | [![PHP](./.images/php-icon.png)](./5_kyu/Moving_Zeros_To_The_End.php) |
 | ![5 kyu](.images/5kyu-icon.png) | [RGB_To_Hex_Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001) | [![PHP](./.images/php-icon.png)](./5_kyu/RGB_To_HEX_Conversion.php) [![JAVA](./.images/java-icon.png)](./5_kyu/RGB_To_HEX_Conversion.java) |
