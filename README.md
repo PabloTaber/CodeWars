@@ -28,6 +28,7 @@ El repositorio está organizado en carpetas según la dificultad de los problema
 | ![6 kyu](.images/6kyu-icon.png)  | [Organise duplicate numbers in list](https://www.codewars.com/kata/5884b6550785f7c58f000047) | [![PHP](./.images/php-icon.png)](./6_kyu/Organise_duplicate_numbers_in_list.php) |
 | ![6 kyu](.images/6kyu-icon.png)  | [Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f) | [![PHP](./.images/php-icon.png)](./6_kyu/Is_a_number_prime.php) |
 | ![6 kyu](.images/6kyu-icon.png)  | [Dead Ants](https://www.codewars.com/kata/57d5e850bfcdc545870000b7) | [![PHP](./.images/php-icon.png)](./6_kyu/Dead_Ants.php) |
+| ![6 kyu](.images/6kyu-icon.png)  | [Count the smiley faces!](https://www.codewars.com/kata/583203e6eb35d7980400002a) | [![PHP](./.images/php-icon.png)](./6_kyu/Count_the_smiley_faces.php) |
 | ![6 kyu](.images/6kyu-icon.png) | [Find the missing letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2) | [![PHP](./.images/php-icon.png)](./6_kyu/Find_the_missing_letter.php) [![JAVA](./.images/java-icon.png)](./6_kyu/Find_the_missing_letter.java) |
 | ![6 kyu](.images/6kyu-icon.png) | [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) | [![PHP](./.images/php-icon.png)](./6_kyu/Duplicate_Encoder.php) [![JAVA](./.images/java-icon.png)](./6_kyu/Duplicate_Encoder.java) |
 | ![6 kyu](.images/6kyu-icon.png) | [Convert string to camel case](https://www.codewars.com/kata/517abf86da9663f1d2000003) | [![PHP](./.images/php-icon.png)](./6_kyu/Convert_string_to_camel_case.php) [![JAVA](./.images/java-icon.png)](./6_kyu/Convert_string_to_camel_case.java) |
@@ -46,4 +47,5 @@ El repositorio está organizado en carpetas según la dificultad de los problema
 | ![8 kyu](.images/8kyu-icon.png) | [Quadrants](https://www.codewars.com/kata/643af0fa9fa6c406b47c5399)   | [![JAVA](./.images/java-icon.png)](./8_kyu/Quadrants.java) |
 | ![8 kyu](.images/8kyu-icon.png) | [No zeros for heros](https://www.codewars.com/kata/570a6a46455d08ff8d001002) | [![PHP](./.images/php-icon.png)](./8_kyu/No_zeros_for_heros.php) [![JAVA](./.images/java-icon.png)](./8_kyu/No_zeros_for_heros.java) |
 | ![8 kyu](.images/8kyu-icon.png) | [Calculate average](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921) | [![PHP](./.images/php-icon.png)](./8_kyu/Calculate_average.php) [![JAVA](./.images/java-icon.png)](./8_kyu/Calculate_average.java) |
+| ![8 kyu](.images/8kyu-icon.png) | [Convert a Number to a String!](https://www.codewars.com/kata/5265326f5fda8eb1160004c8) | [![PHP](./.images/php-icon.png)](./8_kyu/Convert_a_Number_to_a_String.php) |
 
