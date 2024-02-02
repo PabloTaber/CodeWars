@@ -48,4 +48,5 @@ El repositorio está organizado en carpetas según la dificultad de los problema
 | ![8 kyu](.images/8kyu-icon.png) | [No zeros for heros](https://www.codewars.com/kata/570a6a46455d08ff8d001002) | [![PHP](./.images/php-icon.png)](./8_kyu/No_zeros_for_heros.php) [![JAVA](./.images/java-icon.png)](./8_kyu/No_zeros_for_heros.java) |
 | ![8 kyu](.images/8kyu-icon.png) | [Calculate average](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921) | [![PHP](./.images/php-icon.png)](./8_kyu/Calculate_average.php) [![JAVA](./.images/java-icon.png)](./8_kyu/Calculate_average.java) |
 | ![8 kyu](.images/8kyu-icon.png) | [Convert a Number to a String!](https://www.codewars.com/kata/5265326f5fda8eb1160004c8) | [![PHP](./.images/php-icon.png)](./8_kyu/Convert_a_Number_to_a_String.php) |
+| ![8 kyu](.images/8kyu-icon.png) | [Function1 - hello world](https://www.codewars.com/kata/523b4ff7adca849afe000035) | [![PHP](./.images/php-icon.png)](./8_kyu/Function1_-_hello_world.php) [![PHP](./.images/js-icon.png)](./8_kyu/Function1_-_hello_world.js)|
 
