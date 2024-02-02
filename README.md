@@ -47,7 +47,8 @@ El repositorio está organizado en carpetas según la dificultad de los problema
 | ![8 kyu](.images/8kyu-icon.png) | [Quadrants](https://www.codewars.com/kata/643af0fa9fa6c406b47c5399)   | [![JAVA](./.images/java-icon.png)](./8_kyu/Quadrants.java) |
 | ![8 kyu](.images/8kyu-icon.png) | [No zeros for heros](https://www.codewars.com/kata/570a6a46455d08ff8d001002) | [![PHP](./.images/php-icon.png)](./8_kyu/No_zeros_for_heros.php) [![JAVA](./.images/java-icon.png)](./8_kyu/No_zeros_for_heros.java) |
 | ![8 kyu](.images/8kyu-icon.png) | [Calculate average](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921) | [![PHP](./.images/php-icon.png)](./8_kyu/Calculate_average.php) [![JAVA](./.images/java-icon.png)](./8_kyu/Calculate_average.java) |
-| ![8 kyu](.images/8kyu-icon.png) | [Convert a Number to a String!](https://www.codewars.com/kata/5265326f5fda8eb1160004c8) | [![PHP](./.images/php-icon.png)](./8_kyu/Convert_a_Number_to_a_String.php) |
+| ![8 kyu](.images/8kyu-icon.png) | [Convert a Number to a String!](https://www.codewars.com/kata/5265326f5fda8eb1160004c8) | [![PHP](./.images/php-icon.png)](./8_kyu/Convert_a_Number_to_a_String.php) [![JS](./.images/js-icon.png)](./8_kyu/Convert_a_Number_to_a_String.js)|
 | ![8 kyu](.images/8kyu-icon.png) | [Function1 - hello world](https://www.codewars.com/kata/523b4ff7adca849afe000035) | [![PHP](./.images/php-icon.png)](./8_kyu/Function1_-_hello_world.php) [![JS](./.images/js-icon.png)](./8_kyu/Function1_-_hello_world.js)|
 | ![8 kyu](.images/8kyu-icon.png) | [Fundamentals: Return](https://www.codewars.com/kata/55a5befdf16499bffb00007b) | [![JS](./.images/js-icon.png)](./8_kyu/Fundamentals:_Return.js)|
+| ![8 kyu](.images/8kyu-icon.png) | [I love you,...](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296) | [![PHP](./.images/php-icon.png)](./8_kyu/I_love_you.php) [![JS](./.images/js-icon.png)](./8_kyu/I_love_you.js)|
 
