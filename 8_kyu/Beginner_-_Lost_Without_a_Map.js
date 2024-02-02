@@ -1,0 +1,1 @@
+const maps = array => array.map(elemento => elemento * 2);
