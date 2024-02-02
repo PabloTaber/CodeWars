@@ -27,7 +27,7 @@ El repositorio está organizado en carpetas según la dificultad de los problema
 | ![5 kyu](.images/5kyu-icon.png) | [Tic-Tac-Toe Checker](https://www.codewars.com/kata/525caa5c1bf619d28c000335) | [![PHP](./.images/php-icon.png)](./5_kyu/Tic-Tac-Toe_Checker.php) |
 | ![6 kyu](.images/6kyu-icon.png)  | [Organise duplicate numbers in list](https://www.codewars.com/kata/5884b6550785f7c58f000047) | [![PHP](./.images/php-icon.png)](./6_kyu/Organise_duplicate_numbers_in_list.php) |
 | ![6 kyu](.images/6kyu-icon.png)  | [Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f) | [![PHP](./.images/php-icon.png)](./6_kyu/Is_a_number_prime.php) |
-| ![6 kyu](.images/6kyu-icon.png)  | [Dead Ants](https://www.codewars.com/kata/57d5e850bfcdc545870000b7) | [![PHP](./.images/php-icon.png)](./6_kyu/Dead_Ants.php) |
+| ![6 kyu](.images/6kyu-icon.png)  | [Dead Ants](https://www.codewars.com/kata/57d5e850bfcdc545870000b7) | [![PHP](./.images/php-icon.png)](./6_kyu/Dead_Ants.php) [![JS](./.images/js-icon.png)](./6_kyu/Dead_Ants.js) |
 | ![6 kyu](.images/6kyu-icon.png)  | [Count the smiley faces!](https://www.codewars.com/kata/583203e6eb35d7980400002a) | [![PHP](./.images/php-icon.png)](./6_kyu/Count_the_smiley_faces.php) |
 | ![6 kyu](.images/6kyu-icon.png) | [Find the missing letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2) | [![PHP](./.images/php-icon.png)](./6_kyu/Find_the_missing_letter.php) [![JAVA](./.images/java-icon.png)](./6_kyu/Find_the_missing_letter.java) |
 | ![6 kyu](.images/6kyu-icon.png) | [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) | [![PHP](./.images/php-icon.png)](./6_kyu/Duplicate_Encoder.php) [![JAVA](./.images/java-icon.png)](./6_kyu/Duplicate_Encoder.java) |
