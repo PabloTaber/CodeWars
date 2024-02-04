@@ -29,6 +29,7 @@ El repositorio está organizado en carpetas según la dificultad de los problema
 | ![6 kyu](.images/6kyu-icon.png)  | [Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f) | [![PHP](./.images/php-icon.png)](./6_kyu/Is_a_number_prime.php) |
 | ![6 kyu](.images/6kyu-icon.png)  | [Dead Ants](https://www.codewars.com/kata/57d5e850bfcdc545870000b7) | [![PHP](./.images/php-icon.png)](./6_kyu/Dead_Ants.php) [![JS](./.images/js-icon.png)](./6_kyu/Dead_Ants.js) |
 | ![6 kyu](.images/6kyu-icon.png)  | [Count the smiley faces!](https://www.codewars.com/kata/583203e6eb35d7980400002a) | [![PHP](./.images/php-icon.png)](./6_kyu/Count_the_smiley_faces.php) |
+| ![6 kyu](.images/6kyu-icon.png)  | [Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db) | [![PHP](./.images/php-icon.png)](./6_kyu/Tribonacci_Sequence.php) [![JS](./.images/js-icon.png)](./6_kyu/Tribonacci_Sequence.js) | 
 | ![6 kyu](.images/6kyu-icon.png) | [Find the missing letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2) | [![PHP](./.images/php-icon.png)](./6_kyu/Find_the_missing_letter.php) [![JAVA](./.images/java-icon.png)](./6_kyu/Find_the_missing_letter.java) |
 | ![6 kyu](.images/6kyu-icon.png) | [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) | [![PHP](./.images/php-icon.png)](./6_kyu/Duplicate_Encoder.php) [![JAVA](./.images/java-icon.png)](./6_kyu/Duplicate_Encoder.java) |
 | ![6 kyu](.images/6kyu-icon.png) | [Convert string to camel case](https://www.codewars.com/kata/517abf86da9663f1d2000003) | [![PHP](./.images/php-icon.png)](./6_kyu/Convert_string_to_camel_case.php) [![JAVA](./.images/java-icon.png)](./6_kyu/Convert_string_to_camel_case.java) |
@@ -55,4 +56,5 @@ El repositorio está organizado en carpetas según la dificultad de los problema
 | ![8 kyu](.images/8kyu-icon.png) | [I love you,...](https://www.codewars.com/kata/57f24e6a18e9fad8eb000296) | [![PHP](./.images/php-icon.png)](./8_kyu/I_love_you.php) [![JS](./.images/js-icon.png)](./8_kyu/I_love_you.js)|
 | ![8 kyu](.images/8kyu-icon.png) | [Sum Arrays](https://www.codewars.com/kata/53dc54212259ed3d4f00071c) | [![PHP](./.images/php-icon.png)](./8_kyu/Sum_Arrays.php) [![JS](./.images/js-icon.png)](./8_kyu/Sum_Arrays.js)|
 | ![8 kyu](.images/8kyu-icon.png) | [Beginner - Lost Without a Map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e) | [![PHP](./.images/php-icon.png)](./8_kyu/Beginner_-_Lost_Without_a_Map.php) [![JS](./.images/js-icon.png)](./8_kyu/Beginner_-_Lost_Without_a_Map.js)|
+| ![8 kyu](.images/8kyu-icon.png) | [Opposite number](https://www.codewars.com/kata/56dec885c54a926dcd001095) | [![PHP](./.images/php-icon.png)](./8_kyu/Opposite_number.php) [![JS](./.images/js-icon.png)](./8_kyu/Opposite_number.js)|
 
