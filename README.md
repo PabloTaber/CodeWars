@@ -57,4 +57,5 @@ El repositorio está organizado en carpetas según la dificultad de los problema
 | ![8 kyu](.images/8kyu-icon.png) | [Sum Arrays](https://www.codewars.com/kata/53dc54212259ed3d4f00071c) | [![PHP](./.images/php-icon.png)](./8_kyu/Sum_Arrays.php) [![JS](./.images/js-icon.png)](./8_kyu/Sum_Arrays.js)|
 | ![8 kyu](.images/8kyu-icon.png) | [Beginner - Lost Without a Map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e) | [![PHP](./.images/php-icon.png)](./8_kyu/Beginner_-_Lost_Without_a_Map.php) [![JS](./.images/js-icon.png)](./8_kyu/Beginner_-_Lost_Without_a_Map.js)|
 | ![8 kyu](.images/8kyu-icon.png) | [Opposite number](https://www.codewars.com/kata/56dec885c54a926dcd001095) | [![PHP](./.images/php-icon.png)](./8_kyu/Opposite_number.php) [![JS](./.images/js-icon.png)](./8_kyu/Opposite_number.js)|
+| ![8 kyu](.images/8kyu-icon.png) | [Basic Mathematical Operations](https://www.codewars.com/kata/57356c55867b9b7a60000bd7) | [![PHP](./.images/php-icon.png)](./8_kyu/Basic_Mathematical_Operations.php) [![JS](./.images/js-icon.png)](./8_kyu/Basic_Mathematical_Operations.js)|
 
