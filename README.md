@@ -62,4 +62,5 @@ El repositorio está organizado en carpetas según la dificultad de los problema
 | ![8 kyu](.images/8kyu-icon.png) | [Beginner - Lost Without a Map](https://www.codewars.com/kata/57f781872e3d8ca2a000007e) | [![PHP](./.images/php-icon.png)](./8_kyu/Beginner_-_Lost_Without_a_Map.php) [![JS](./.images/js-icon.png)](./8_kyu/Beginner_-_Lost_Without_a_Map.js)|
 | ![8 kyu](.images/8kyu-icon.png) | [Opposite number](https://www.codewars.com/kata/56dec885c54a926dcd001095) | [![PHP](./.images/php-icon.png)](./8_kyu/Opposite_number.php) [![JS](./.images/js-icon.png)](./8_kyu/Opposite_number.js)|
 | ![8 kyu](.images/8kyu-icon.png) | [Basic Mathematical Operations](https://www.codewars.com/kata/57356c55867b9b7a60000bd7) | [![PHP](./.images/php-icon.png)](./8_kyu/Basic_Mathematical_Operations.php) [![JS](./.images/js-icon.png)](./8_kyu/Basic_Mathematical_Operations.js)|
+| ![8 kyu](.images/8kyu-icon.png) | [Convert a Boolean to a String](https://www.codewars.com/kata/551b4501ac0447318f0009cd) | [![PHP](./.images/php-icon.png)](./8_kyu/Convert_a_Boolean_to_a_String.php) [![JS](./.images/js-icon.png)](./8_kyu/Convert_a_Boolean_to_a_String.js)|
 
