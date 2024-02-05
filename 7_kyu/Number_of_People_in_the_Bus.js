@@ -1,0 +1,1 @@
+const number = busStops => busStops.reduce((acc, valor) => valor[0] - valor[1] + acc, 0);
