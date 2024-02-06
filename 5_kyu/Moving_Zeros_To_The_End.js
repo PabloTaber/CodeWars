@@ -1,0 +1,1 @@
+const moveZeros = arr => arr.filter(valor => valor !== 0).concat(arr.filter(valor => valor === 0));
