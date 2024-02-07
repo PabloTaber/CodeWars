@@ -1,6 +1,7 @@
 # Repositorio de Soluciones para CodeWars
 
 ![Badge](https://www.codewars.com/users/PabloTaber/badges/large)
+
 ¡Bienvenido a mi repositorio de soluciones para los ejercicios de la plataforma CodeWars! Aquí encontrarás las soluciones a diversos problemas de programación y algorítmicos propuestos en la plataforma. Este repositorio lo estoy haciendo mientras estudio el segundo en DAW en el [IES San Clemente](https://www.iessanclemente.net/), por lo que las soluciones probablemente no serán las más optimas.
 
 ## ¿Qué es CodeWars?
