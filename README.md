@@ -1,18 +1,17 @@
-![Badge](https://www.codewars.com/users/PabloTaber/badges/large)
-
 # Repositorio de Soluciones para CodeWars
 
-¡Bienvenido a mi repositorio de soluciones para los ejercicios de la plataforma CodeWars! Aquí encontrarás las soluciones a diversos problemas de programación y algorítmicos propuestos en la plataforma. Este repositorio lo estoy haciendo mientras estudio el segundo en DAW en el [IES San Clemente](https://www.iessanclemente.net/), por lo que las soluciones probablemente no serán las más optimas. 
+![Badge](https://www.codewars.com/users/PabloTaber/badges/large)
+¡Bienvenido a mi repositorio de soluciones para los ejercicios de la plataforma CodeWars! Aquí encontrarás las soluciones a diversos problemas de programación y algorítmicos propuestos en la plataforma. Este repositorio lo estoy haciendo mientras estudio el segundo en DAW en el [IES San Clemente](https://www.iessanclemente.net/), por lo que las soluciones probablemente no serán las más optimas.
 
 ## ¿Qué es CodeWars?
 
 [CodeWars](https://www.codewars.com/) es una plataforma en línea que ofrece una colección de desafíos de programación y algorítmicos. Los problemas abarcan una amplia gama de dificultades, desde principiante hasta avanzado.
 
-## Estructura del Repositorio:
+## Estructura del Repositorio
 
 El repositorio está organizado en carpetas según la dificultad de los problemas en CodeWars. Dentro de cada carpeta, encontrarás la solución en el lenguaje de programación correspondiente.
 
-## Lista de Problemas Resueltos:
+## Lista de Problemas Resueltos
 
 | Nivel    | Descripción del Problema                        | Solución                                    |
 |:------:|-------------------------------------------------|:-------------------------------------------:|
@@ -30,9 +29,9 @@ El repositorio está organizado en carpetas según la dificultad de los problema
 | ![6 kyu](.images/6kyu-icon.png)  | [Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f) | [![PHP](./.images/php-icon.png)](./6_kyu/Is_a_number_prime.php) |
 | ![6 kyu](.images/6kyu-icon.png)  | [Dead Ants](https://www.codewars.com/kata/57d5e850bfcdc545870000b7) | [![PHP](./.images/php-icon.png)](./6_kyu/Dead_Ants.php) [![JS](./.images/js-icon.png)](./6_kyu/Dead_Ants.js) |
 | ![6 kyu](.images/6kyu-icon.png)  | [Count the smiley faces!](https://www.codewars.com/kata/583203e6eb35d7980400002a) | [![PHP](./.images/php-icon.png)](./6_kyu/Count_the_smiley_faces.php) |
-| ![6 kyu](.images/6kyu-icon.png)  | [Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db) | [![PHP](./.images/php-icon.png)](./6_kyu/Tribonacci_Sequence.php) [![JS](./.images/js-icon.png)](./6_kyu/Tribonacci_Sequence.js) | 
-| ![6 kyu](.images/6kyu-icon.png)  | [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83) | [![PHP](./.images/php-icon.png)](./6_kyu/Create_Phone_Number.php) [![JS](./.images/js-icon.png)](./6_kyu/Create_Phone_Number.js) | 
-| ![6 kyu](.images/6kyu-icon.png)  | [Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56) | [![PHP](./.images/php-icon.png)](./6_kyu/Valid_Braces.php) [![JS](./.images/js-icon.png)](./6_kyu/Valid_Braces.js) | 
+| ![6 kyu](.images/6kyu-icon.png)  | [Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db) | [![PHP](./.images/php-icon.png)](./6_kyu/Tribonacci_Sequence.php) [![JS](./.images/js-icon.png)](./6_kyu/Tribonacci_Sequence.js) |
+| ![6 kyu](.images/6kyu-icon.png)  | [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83) | [![PHP](./.images/php-icon.png)](./6_kyu/Create_Phone_Number.php) [![JS](./.images/js-icon.png)](./6_kyu/Create_Phone_Number.js) |
+| ![6 kyu](.images/6kyu-icon.png)  | [Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56) | [![PHP](./.images/php-icon.png)](./6_kyu/Valid_Braces.php) [![JS](./.images/js-icon.png)](./6_kyu/Valid_Braces.js) |
 | ![6 kyu](.images/6kyu-icon.png) | [Find the missing letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2) | [![PHP](./.images/php-icon.png)](./6_kyu/Find_the_missing_letter.php) [![JAVA](./.images/java-icon.png)](./6_kyu/Find_the_missing_letter.java) |
 | ![6 kyu](.images/6kyu-icon.png) | [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) | [![PHP](./.images/php-icon.png)](./6_kyu/Duplicate_Encoder.php) [![JAVA](./.images/java-icon.png)](./6_kyu/Duplicate_Encoder.java) |
 | ![6 kyu](.images/6kyu-icon.png) | [Convert string to camel case](https://www.codewars.com/kata/517abf86da9663f1d2000003) | [![PHP](./.images/php-icon.png)](./6_kyu/Convert_string_to_camel_case.php) [![JAVA](./.images/java-icon.png)](./6_kyu/Convert_string_to_camel_case.java) |
@@ -41,7 +40,7 @@ El repositorio está organizado en carpetas según la dificultad de los problema
 | ![6 kyu](.images/6kyu-icon.png) | [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c) | [![PHP](./.images/php-icon.png)](./6_kyu/Does_my_number_look_big_in_this.php) [![JAVA](./.images/java-icon.png)](./6_kyu/Does_my_number_look_big_in_this.java) |
 | ![7 kyu](.images/7kyu-icon.png)  | [Calculate mean and concatenate string](https://www.codewars.com/kata/56f7493f5d7c12d1690000b6)   | [![PHP](./.images/php-icon.png)](./7_kyu/Calculate_mean_and_concatenate_string.php) |
 | ![7 kyu](.images/7kyu-icon.png) | [Reverse words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)   | [![PHP](./.images/php-icon.png)](./7_kyu/Reverse_words.php) |
-| ![7 kyu](.images/7kyu-icon.png) | [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e)   | [![PHP](./.images/php-icon.png)](./7_kyu/Disemvowel_Trolls.php) |
+| ![7 kyu](.images/7kyu-icon.png) | [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e)   | [![PHP](./.images/php-icon.png)](./7_kyu/Disemvowel_Trolls.php) [![JS](./.images/js-icon.png)](./7_kyu/Disemvowel_Trolls.js) |
 | ![7 kyu](.images/7kyu-icon.png) | [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac)   | [![PHP](./.images/php-icon.png)](./7_kyu/Two_to_One.php) [![JS](./.images/js-icon.png)](./7_kyu/Two_to_One.js) |
 | ![7 kyu](.images/7kyu-icon.png) | [Highest_and_Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035)   | [![PHP](./.images/php-icon.png)](./7_kyu/Higtest_and_Lowest.php) [![JS](./.images/js-icon.png)](./7_kyu/Higtest_and_Lowest.js) |
 | ![7 kyu](.images/7kyu-icon.png) | [Number of People in the Bus](https://www.codewars.com/kata/5648b12ce68d9daa6b000099)   | [![PHP](./.images/php-icon.png)](./7_kyu/Number_of_People_in_the_Bus.php) [![JS](./.images/js-icon.png)](./7_kyu/Number_of_People_in_the_Bus.js) |

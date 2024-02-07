@@ -1,0 +1,1 @@
+const disemvowel = str => str.replace(/[aA]|[eE]|[iI]|[oO]|[uU]/g, '')
