@@ -17,6 +17,7 @@ El repositorio está organizado en carpetas según la dificultad de los problema
 | Nivel    | Descripción del Problema                        | Solución                                    |
 |:------:|-------------------------------------------------|:-------------------------------------------:|
 | ![4 kyu](.images/4kyu-icon.png)  | [Adding Big Numbers](https://www.codewars.com/kata/525f4206b73515bffb000b21) | [![JS](./.images/js-icon.png)](./4_kyu/Adding_Big_Numbers.js) |
+| ![4 kyu](.images/4kyu-icon.png)  | [A Simplistic TCP Finite State Machine](https://www.codewars.com/kata/54acc128329e634e9a000362) | [![JS](./.images/js-icon.png)](./4_kyu/A_Simplistic_TCP_Finite_State_Machine.js) |
 | ![4 kyu](.images/4kyu-icon.png)  | [Twice linear](https://www.codewars.com/kata/5672682212c8ecf83e000050) | [![PHP](./.images/php-icon.png)](./4_kyu/Twice_linear.php) |
 | ![4 kyu](.images/4kyu-icon.png)  | [Sum of Intervals](https://www.codewars.com/kata/52b7ed099cdc285c300001cd) | [![PHP](./.images/php-icon.png)](./4_kyu/Sum_of_Intervals.php) |
 | ![4 kyu](.images/4kyu-icon.png)  | [Sum Strings as Numbers](https://www.codewars.com/kata/5324945e2ece5e1f32000370) | [![PHP](./.images/php-icon.png)](./4_kyu/Sum_String_as_Numbers.php) [![JS](./.images/js-icon.png)](./4_kyu/Sum_String_as_Numbers.js) |
