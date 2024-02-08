@@ -1,0 +1,1 @@
+const countBy = (x, n) => Array.from({length: n}, (_, i) => x+i*x);
