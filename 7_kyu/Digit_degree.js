@@ -1,0 +1,1 @@
+const digitDegree = n => n < 10 ? 0 : 1 + digitDegree(Array.from(n.toString()).reduce((acc, valor) => acc + parseInt(valor), 0))
