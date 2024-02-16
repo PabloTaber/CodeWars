@@ -1,0 +1,17 @@
+<?php
+
+function orderWeight($str) {
+    $resultado = array();
+    $nums = explode(" ", $str);
+  
+    foreach($nums as $valor) {
+        $suma = array_sum(str_split($valor));
+        echo "Este es el string $valor y esto la suma $suma<br />";
+        $resultado[$valor] = $suma;
+        asort($resultado);
+    }
+
+    return implode(' ', array_keys($resultado));
+}
+
+orderWeight("103 123 4444 99 2000");
