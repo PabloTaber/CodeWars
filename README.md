@@ -18,9 +18,10 @@ El repositorio está organizado en carpetas según la dificultad de los problema
 |:------:|-------------------------------------------------|:-------------------------------------------:|
 | ![4 kyu](.images/4kyu-icon.png)  | [Adding Big Numbers](https://www.codewars.com/kata/525f4206b73515bffb000b21) | [![JS](./.images/js-icon.png)](./4_kyu/Adding_Big_Numbers.js) |
 | ![4 kyu](.images/4kyu-icon.png)  | [A Simplistic TCP Finite State Machine](https://www.codewars.com/kata/54acc128329e634e9a000362) | [![JS](./.images/js-icon.png)](./4_kyu/A_Simplistic_TCP_Finite_State_Machine.js) |
-| ![4 kyu](.images/4kyu-icon.png)  | [Twice linear](https://www.codewars.com/kata/5672682212c8ecf83e000050) | [![PHP](./.images/php-icon.png)](./4_kyu/Twice_linear.php) |
+| ![4 kyu](.images/4kyu-icon.png)  | [Range Extraction](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f) | [![PHP](./.images/php-icon.png)](./4_kyu/Range_Extraction.php) |
 | ![4 kyu](.images/4kyu-icon.png)  | [Sum of Intervals](https://www.codewars.com/kata/52b7ed099cdc285c300001cd) | [![PHP](./.images/php-icon.png)](./4_kyu/Sum_of_Intervals.php) |
 | ![4 kyu](.images/4kyu-icon.png)  | [Sum Strings as Numbers](https://www.codewars.com/kata/5324945e2ece5e1f32000370) | [![PHP](./.images/php-icon.png)](./4_kyu/Sum_String_as_Numbers.php) [![JS](./.images/js-icon.png)](./4_kyu/Sum_String_as_Numbers.js) |
+| ![4 kyu](.images/4kyu-icon.png)  | [Twice linear](https://www.codewars.com/kata/5672682212c8ecf83e000050) | [![PHP](./.images/php-icon.png)](./4_kyu/Twice_linear.php) |
 | ![5 kyu](.images/5kyu-icon.png) | [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a) | [![PHP](./.images/php-icon.png)](./5_kyu/Directions_Reduction.php) |
 | ![5 kyu](.images/5kyu-icon.png) | [Greed is Good](https://www.codewars.com/kata/5270d0d18625160ada0000e4) | [![JAVA](./.images/java-icon.png)](./5_kyu/Greed_is_Good.java) |
 | ![5 kyu](.images/5kyu-icon.png) | [Is my friend cheating?](https://www.codewars.com/kata/5547cc7dcad755e480000004) | [![PHP](./.images/php-icon.png)](./5_kyu/Is_my_friend_cheating.php) [![JAVA](./.images/java-icon.png)](./5_kyu/Is_my_friend_cheating.java) |
