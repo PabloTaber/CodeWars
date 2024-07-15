@@ -62,6 +62,7 @@ El repositorio está organizado en carpetas según la dificultad de los problema
 | ![7 kyu](.images/7kyu-icon.png) | [How many are smaller than me?](https://www.codewars.com/kata/56a1c074f87bc2201200002e)   | [![PHP](./.images/php-icon.png)](./7_kyu/How_many_are_smaller_than_me.php) |
 | ![7 kyu](.images/7kyu-icon.png) | [Is it a letter?](https://www.codewars.com/kata/57a06b07cf1fa58b2b000252)   | [![JS](./.images/js-icon.png)](./7_kyu/Is_it_a_letter.js) |
 | ![7 kyu](.images/7kyu-icon.png) | [Jaden Casing String](https://www.codewars.com/kata/5390bac347d09b7da40006f6)   | [![PHP](./.images/php-icon.png)](./7_kyu/Jaden_Casing_String.php) [![JS](./.images/js-icon.png)](./7_kyu/Jaden_Casing_String.js) |
+| ![7 kyu](.images/7kyu-icon.png) | [Multiplication - Generator](https://www.codewars.com/kata/5637ead70013386e30000027)   | [![PHP](./.images/php-icon.png)](./7_kyu/Multiplication_Generators.php) |
 | ![7 kyu](.images/7kyu-icon.png) | [Number of People in the Bus](https://www.codewars.com/kata/5648b12ce68d9daa6b000099)   | [![PHP](./.images/php-icon.png)](./7_kyu/Number_of_People_in_the_Bus.php) [![JS](./.images/js-icon.png)](./7_kyu/Number_of_People_in_the_Bus.js) |
 | ![7 kyu](.images/7kyu-icon.png) | [Reverse Letter](https://www.codewars.com/kata/58b8c94b7df3f116eb00005b)   | [![PHP](./.images/php-icon.png)](./7_kyu/Reverse_Letter.php) |
 | ![7 kyu](.images/7kyu-icon.png) | [Reverse words](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)   | [![PHP](./.images/php-icon.png)](./7_kyu/Reverse_words.php) |
